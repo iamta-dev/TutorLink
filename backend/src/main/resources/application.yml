@@ -1,0 +1,32 @@
+# ตั้งค่า H2 Database in memory 
+# Code ในการ Run H2 Database 
+# http://localhost:9000/h2-console ->  JDBC URL ใส่ค่าเป็น jdbc:h2:mem:testdb
+gcs-resource-test-bucket: spring-bucket-tutorlink
+spring:
+  jpa:
+    show-sql: false
+    # drop n create table, good for testing, comment this in production
+    hibernate:
+      ddl-auto: create-drop
+  h2:
+    console:
+      enabled: true
+  cloud:
+    gcp:
+      project-id: tutorlink-271704
+      # credentials:
+      #   location: file:./service-account.json
+      sql:
+        database-name: tutorlink
+        instance-connection-name: tutorlink-271704:asia-east2:tutorlink
+  datasource:
+    continue-on-error: true
+    initialization-mode: always
+    password: zxcvbnm,.//
+    username: root
+team24:
+  app:
+    jwtSecret: Team24SecreteKey
+    jwtExpirationMs: 86400000
+server:
+  port: 9000
