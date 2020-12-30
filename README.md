@@ -4,7 +4,7 @@
 
 First Header | Second Header
 ------------ | -------------
-<center><img style="text-align: center;" src="markdown/TutorLink-UI001.png" width="30%"></center> | <img src="markdown/TutorLink-UI002.png" width="30%">
+<center><img src="markdown/TutorLink-UI001.png" width="30%"></center> | <img src="markdown/TutorLink-UI002.png" width="30%">
 <img src="markdown/TutorLink-UI003.png" width="30%"> | <img src="markdown/TutorLink-UI02.png" width="30%">
 <img src="markdown/TutorLink-UI03.png" width="30%"> | <img src="markdown/TutorLink-UI04.png" width="30%">
 <img src="markdown/TutorLink-UI05.png" width="30%"> | 
