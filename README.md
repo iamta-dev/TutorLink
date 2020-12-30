@@ -2,36 +2,10 @@
 
 ## UX/UI appClient
 
-<style>
-* {
-  box-sizing: border-box;
-}
+First Header | Second Header
+------------ | -------------
+<img src="markdown/TutorLink-UI001.png" width="50%"> | (/markdown/TutorLink-UI002.png)
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div style="box-sizing: border-box; clear: both; display: table;">
-  <div style="float: left;width: 33.33%;padding: 5px;">
-    <img src="markdown/TutorLink-UI001.png" alt="Snow" style="width:20%">
-  </div>
-  <div style="float: left;width: 33.33%;padding: 5px;">
-    <img src="markdown/TutorLink-UI002.png" alt="Forest" style="width:20%">
-  </div>
-  <div style="float: left;width: 33.33%;padding: 5px;">
-    <img src="markdown/TutorLink-UI003.png" alt="Mountains" style="width:20%">
-  </div>
-</div>
 
 ## first run Backend
   gcloud auth application-default login
