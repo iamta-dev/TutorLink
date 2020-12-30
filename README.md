@@ -21,15 +21,15 @@
 }
 </style>
 
-<div class="row">
-  <div class="column">
-    <img src="markdown/TutorLink-UI001.png" alt="Snow" style="width:100%">
+<div style="box-sizing: border-box; clear: both; display: table;">
+  <div style="float: left;width: 33.33%;padding: 5px;">
+    <img src="markdown/TutorLink-UI001.png" alt="Snow" style="width:20%">
   </div>
-  <div class="column">
-    <img src="markdown/TutorLink-UI002.png" alt="Forest" style="width:100%">
+  <div style="float: left;width: 33.33%;padding: 5px;">
+    <img src="markdown/TutorLink-UI002.png" alt="Forest" style="width:20%">
   </div>
-  <div class="column">
-    <img src="markdown/TutorLink-UI003.png" alt="Mountains" style="width:100%">
+  <div style="float: left;width: 33.33%;padding: 5px;">
+    <img src="markdown/TutorLink-UI003.png" alt="Mountains" style="width:20%">
   </div>
 </div>
 
