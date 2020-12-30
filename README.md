@@ -11,11 +11,7 @@ First Header | Second Header
 
 ## UX/UI Test
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/IphAavfTUz4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![click UX/UI - TEST](/markdown/click-youtube.png)](https://www.youtube.com/watch?v=IphAavfTUz4 "click UX/UI - TEST")
 
 ## first run Backend
   gcloud auth application-default login
