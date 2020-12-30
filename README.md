@@ -11,11 +11,11 @@ First Header | Second Header
 
 ## UX/UI Test
 
-<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
-  <iframe frameborder="0" height="100%" width="100%"
-    src="https://www.youtube.com/watch?v=IphAavfTUz4&autoplay?autoplay=1&controls=0&showinfo=0&autohide=1">
-  </iframe>
-</div>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IphAavfTUz4" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 ## first run Backend
   gcloud auth application-default login
