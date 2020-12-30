@@ -4,10 +4,10 @@
 
 First Header | Second Header
 | :----- | :----- |
-| ![TutorLink-UI001](/markdown/TutorLink-UI001.png =100x20) | ![TutorLink-UI002](/markdown/TutorLink-UI002.png =100x20) |
-| ![TutorLink-UI003](/markdown/TutorLink-UI001.png =100x20) | ![TutorLink-UI02](/markdown/TutorLink-UI002.png =100x20) |
-| ![TutorLink-UI03](/markdown/TutorLink-UI001.png =100x20) | ![TutorLink-UI04](/markdown/TutorLink-UI002.png =100x20) |
-| ![TutorLink-UI05](/markdown/TutorLink-UI001.png =100x20) |  
+| ![TutorLink-UI001](/markdown/TutorLink-UI001.png){:height="100px"} | ![TutorLink-UI002](/markdown/TutorLink-UI002.png){:height="100px"} |
+| ![TutorLink-UI003](/markdown/TutorLink-UI001.png){:height="100px"} | ![TutorLink-UI02](/markdown/TutorLink-UI002.png){:height="100px"} |
+| ![TutorLink-UI03](/markdown/TutorLink-UI001.png){:height="100px"} | ![TutorLink-UI04](/markdown/TutorLink-UI002.png){:height="100px"} |
+| ![TutorLink-UI05](/markdown/TutorLink-UI001.png){:height="100px"} |  
 
 ## UX/UI Test
 
