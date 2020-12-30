@@ -2,7 +2,6 @@
 
 ## UX/UI appClient
 
-First Header | Second Header
 | :----- | :----- |
 | ![TutorLink-UI001](/markdown/TutorLink-UI001.png) | ![TutorLink-UI002](/markdown/TutorLink-UI002.png) |
 | ![TutorLink-UI003](/markdown/TutorLink-UI001.png) | ![TutorLink-UI02](/markdown/TutorLink-UI002.png) |
