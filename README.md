@@ -15,13 +15,11 @@ First | Second
 
 ## UX/UI webAdmin
 
-![UI00](/markdown/web/UI00.png) <!-- .element height="20%" -->
+![UI00](/markdown/web/UI00.png) 
 ![UI01](/markdown/web/UI01.png) 
 ![UI02](/markdown/web/UI02.png) 
 ![UI03](/markdown/web/UI03.png) 
 ![UI04](/markdown/web/UI04.png) 
-![UI05](/markdown/web/UI05.png) 
-![UI06](/markdown/web/UI06.png) 
 ![UI07](/markdown/web/UI07.png) 
 
 ## first run Backend
