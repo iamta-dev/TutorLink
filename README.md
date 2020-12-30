@@ -14,8 +14,8 @@ First | Second
 [![click UX/UI - TEST](/markdown/click-youtube.png)](https://www.youtube.com/watch?v=IphAavfTUz4 "click UX/UI - TEST")
 
 ## first run Backend
-  gcloud auth application-default login
-  ./mvnw spring-boot:run
+  `gcloud auth application-default login`
+  `./mvnw spring-boot:run`
 ## app Example projects
   https://github.com/infinitered/ignite-bowser-examples
 ## Navigation
