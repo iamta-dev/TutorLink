@@ -2,10 +2,12 @@
 
 ## UX/UI appClient
 
-<img src="markdown/TutorLink-UI001.png" width="50%"> | <img src="markdown/TutorLink-UI002.png" width="50%">
-<img src="markdown/TutorLink-UI003png" width="50%"> | <img src="markdown/TutorLink-UI02.png" width="50%">
-<img src="markdown/TutorLink-UI03.png" width="50%"> | <img src="markdown/TutorLink-UI04.png" width="50%">
-<img src="markdown/TutorLink-UI05.png" width="50%"> | 
+First Header | Second Header
+------------ | -------------
+<img src="markdown/TutorLink-UI001.png" width="30%"> | <img src="markdown/TutorLink-UI002.png" width="30%">
+<img src="markdown/TutorLink-UI003.png" width="30%"> | <img src="markdown/TutorLink-UI02.png" width="30%">
+<img src="markdown/TutorLink-UI03.png" width="30%"> | <img src="markdown/TutorLink-UI04.png" width="30%">
+<img src="markdown/TutorLink-UI05.png" width="30%"> | 
 
 
 ## first run Backend
