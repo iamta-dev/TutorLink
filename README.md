@@ -2,9 +2,11 @@
 
 ## UX/UI appClient
 
-<p><img width="200" src="/markdown/app/TutorLink-UI001.png" /> <img width="200" src="/markdown/app/TutorLink-UI002.png" /> <img width="200" src="/markdown/app/TutorLink-UI05.png" /></p>
-<p><img width="200" src="/markdown/app/TutorLink-UI02.png" /> <img width="200" src="/markdown/app/TutorLink-UI03.png" /> <img width="200" src="/markdown/app/TutorLink-UI04.png" /></p>
-<p><img width="200" src="/markdown/app/TutorLink-UI003.png" /> </p>
+<p align="center"><img width="200" src="/markdown/app/TutorLink-UI001.png" /> <img width="200" src="/markdown/app/TutorLink-UI002.png" /> <img width="200" src="/markdown/app/TutorLink-UI003.png" /></p>
+
+<p align="center"><img width="200" src="/markdown/app/TutorLink-UI05.png" /> <img width="200" src="/markdown/app/TutorLink-UI03.png" /> <img width="200" src="/markdown/app/TutorLink-UI04.png" /></p>
+
+<p align="center"><img width="200" src="/markdown/app/TutorLink-UI02.png" /> </p>
 
 ## UX/UI appClient Test
 
